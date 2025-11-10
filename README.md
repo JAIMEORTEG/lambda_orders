@@ -225,10 +225,3 @@ Authorization: Bearer <token_jwt>
 
 **Importante**: El token JWT debe ser generado desde el microservicio `ms_auth_lambda`. Solo los tokens emitidos por este servicio serán aceptados y validados.
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
-
-## 👥 Autor
-
-David Ortega
